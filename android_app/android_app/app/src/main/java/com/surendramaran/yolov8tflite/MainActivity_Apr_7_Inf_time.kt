@@ -1,1 +1,232 @@
+package com.surendramaran.yolov8tflite
+
+import android.app.ActivityManager
+import android.content.Context
+import android.graphics.Bitmap
+import android.os.SystemClock
+import android.util.Log
+import org.tensorflow.lite.DataType
+import org.tensorflow.lite.Interpreter
+import org.tensorflow.lite.support.common.FileUtil
+import org.tensorflow.lite.support.common.ops.CastOp
+import org.tensorflow.lite.support.common.ops.NormalizeOp
+import org.tensorflow.lite.support.image.ImageProcessor
+import org.tensorflow.lite.support.image.TensorImage
+import org.tensorflow.lite.support.tensorbuffer.TensorBuffer
+import java.io.BufferedReader
+import java.io.IOException
+import java.io.InputStream
+import java.io.InputStreamReader
+
+class Detector(
+    private val context: Context,
+    private val modelPath: String,
+    private val labelPath: String,
+    private val detectorListener: DetectorListener
+) {
+
+    private var interpreter: Interpreter? = null
+    private var labels = mutableListOf<String>()
+
+    private var tensorWidth = 0
+    private var tensorHeight = 0
+    private var numChannel = 0
+    private var numElements = 0
+
+    private val imageProcessor = ImageProcessor.Builder()
+        .add(NormalizeOp(INPUT_MEAN, INPUT_STANDARD_DEVIATION))
+        .add(CastOp(INPUT_IMAGE_TYPE))
+        .build()
+
+    fun setup(
+        logPerformanceInfo: LogPerformanceInfo,
+        memoryInfo: ActivityManager.MemoryInfo,
+        activityManager: ActivityManager,
+        applicationContext: Context
+    ) {
+        val model = FileUtil.loadMappedFile(context, modelPath)
+        val options = Interpreter.Options()
+        options.numThreads = 4
+
+        // 👇 Choose one delegate at a time:
+        Log.d("YOLOv8-TFLite", "Using CPU Delegate")
+        // options.setUseNNAPI(true); Log.d("YOLOv8-TFLite", "Using NNAPI Delegate")
+        // options.addDelegate(GpuDelegate()); Log.d("YOLOv8-TFLite", "Using GPU Delegate")
+
+        interpreter = Interpreter(model, options)
+
+        val inputShape = interpreter?.getInputTensor(0)?.shape() ?: return
+        val outputShape = interpreter?.getOutputTensor(0)?.shape() ?: return
+
+        tensorWidth = inputShape[1]
+        tensorHeight = inputShape[2]
+        numChannel = outputShape[1]
+        numElements = outputShape[2]
+
+        try {
+            val inputStream: InputStream = context.assets.open(labelPath)
+            val reader = BufferedReader(InputStreamReader(inputStream))
+
+            var line: String? = reader.readLine()
+            while (!line.isNullOrEmpty()) {
+                labels.add(line)
+                line = reader.readLine()
+            }
+
+            Log.d("AppPerformanceInfo", "Loaded labels from $labelPath")
+            logPerformanceInfo.getAllPerformanceInfo(
+                memoryInfo,
+                activityManager,
+                context = applicationContext
+            )
+
+            reader.close()
+            inputStream.close()
+        } catch (e: IOException) {
+            e.printStackTrace()
+        }
+    }
+
+    fun clear() {
+        interpreter?.close()
+        interpreter = null
+    }
+
+    fun detect(
+        frame: Bitmap,
+        logPerformanceInfo: LogPerformanceInfo,
+        memoryInfo: ActivityManager.MemoryInfo,
+        activityManager: ActivityManager,
+        applicationContext: Context
+    ) {
+        interpreter ?: return
+        if (tensorWidth == 0 || tensorHeight == 0 || numChannel == 0 || numElements == 0) return
+
+        val resizedBitmap = Bitmap.createScaledBitmap(frame, tensorWidth, tensorHeight, false)
+        Log.d("AppPerformanceInfo", "Resized bitmap to $tensorWidth x $tensorHeight")
+        logPerformanceInfo.getAllPerformanceInfo(memoryInfo, activityManager, context = applicationContext)
+
+        val tensorImage = TensorImage(DataType.FLOAT32)
+        tensorImage.load(resizedBitmap)
+        val processedImage = imageProcessor.process(tensorImage)
+        val imageBuffer = processedImage.buffer
+
+        val output = TensorBuffer.createFixedSize(intArrayOf(1, numChannel, numElements), OUTPUT_IMAGE_TYPE)
+
+        // ✅ Measure inference time correctly
+        val startTime = SystemClock.uptimeMillis()
+        interpreter?.run(imageBuffer, output.buffer)
+        val inferenceTime = SystemClock.uptimeMillis() - startTime
+
+        Log.d("YOLOv8-TFLite", "Inference Time: $inferenceTime ms")
+
+        // ✅ Log memory usage after inference
+        val runtime = Runtime.getRuntime()
+        val usedMemInMB = (runtime.totalMemory() - runtime.freeMemory()) / 1048576L
+        val maxHeapSizeInMB = runtime.maxMemory() / 1048576L
+        Log.d("YOLOv8-TFLite", "Memory Usage: Used ${usedMemInMB}MB / Max Heap ${maxHeapSizeInMB}MB")
+
+        val bestBoxes = bestBox(output.floatArray, logPerformanceInfo, memoryInfo, activityManager, applicationContext)
+
+        if (bestBoxes == null) {
+            detectorListener.onEmptyDetect()
+            return
+        }
+
+        detectorListener.onDetect(bestBoxes, inferenceTime, activityManager)
+    }
+
+    private fun bestBox(
+        array: FloatArray,
+        logPerformanceInfo: LogPerformanceInfo,
+        memoryInfo: ActivityManager.MemoryInfo,
+        activityManager: ActivityManager,
+        context: Context
+    ): List<BoundingBox>? {
+        val boundingBoxes = mutableListOf<BoundingBox>()
+
+        for (c in 0 until numElements) {
+            var maxConf = -1.0f
+            var maxIdx = -1
+            var j = 4
+            var arrayIdx = c + numElements * j
+            while (j < numChannel) {
+                if (array[arrayIdx] > maxConf) {
+                    maxConf = array[arrayIdx]
+                    maxIdx = j - 4
+                }
+                j++
+                arrayIdx += numElements
+            }
+
+            if (maxConf > CONFIDENCE_THRESHOLD) {
+                val clsName = labels[maxIdx]
+                val cx = array[c]
+                val cy = array[c + numElements]
+                val w = array[c + numElements * 2]
+                val h = array[c + numElements * 3]
+                val x1 = cx - (w / 2F)
+                val y1 = cy - (h / 2F)
+                val x2 = cx + (w / 2F)
+                val y2 = cy + (h / 2F)
+                if (x1 < 0F || x1 > 1F || y1 < 0F || y1 > 1F || x2 < 0F || x2 > 1F || y2 < 0F || y2 > 1F) continue
+
+                boundingBoxes.add(BoundingBox(x1, y1, x2, y2, cx, cy, w, h, maxConf, maxIdx, clsName))
+            }
+        }
+
+        if (boundingBoxes.isEmpty()) return null
+
+        Log.d("AppPerformanceInfo", "Best bounding boxes found: ${boundingBoxes.size}")
+        logPerformanceInfo.getAllPerformanceInfo(memoryInfo, activityManager, context = context)
+
+        return applyNMS(boundingBoxes)
+    }
+
+    private fun applyNMS(boxes: List<BoundingBox>): MutableList<BoundingBox> {
+        val sortedBoxes = boxes.sortedByDescending { it.cnf }.toMutableList()
+        val selectedBoxes = mutableListOf<BoundingBox>()
+
+        while (sortedBoxes.isNotEmpty()) {
+            val first = sortedBoxes.removeAt(0)
+            selectedBoxes.add(first)
+
+            val iterator = sortedBoxes.iterator()
+            while (iterator.hasNext()) {
+                val nextBox = iterator.next()
+                val iou = calculateIoU(first, nextBox)
+                if (iou >= IOU_THRESHOLD) {
+                    iterator.remove()
+                }
+            }
+        }
+
+        return selectedBoxes
+    }
+
+    private fun calculateIoU(box1: BoundingBox, box2: BoundingBox): Float {
+        val x1 = maxOf(box1.x1, box2.x1)
+        val y1 = maxOf(box1.y1, box2.y1)
+        val x2 = minOf(box1.x2, box2.x2)
+        val y2 = minOf(box1.y2, box2.y2)
+        val intersectionArea = maxOf(0F, x2 - x1) * maxOf(0F, y2 - y1)
+        val box1Area = box1.w * box1.h
+        val box2Area = box2.w * box2.h
+        return intersectionArea / (box1Area + box2Area - intersectionArea)
+    }
+
+    interface DetectorListener {
+        fun onEmptyDetect()
+        fun onDetect(boundingBoxes: List<BoundingBox>, inferenceTime: Long, activityManager: ActivityManager)
+    }
+
+    companion object {
+        private const val INPUT_MEAN = 0f
+        private const val INPUT_STANDARD_DEVIATION = 255f
+        private val INPUT_IMAGE_TYPE = DataType.FLOAT32
+        private val OUTPUT_IMAGE_TYPE = DataType.FLOAT32
+        private const val CONFIDENCE_THRESHOLD = 0.3F
+        private const val IOU_THRESHOLD = 0.5F
+    }
+}
 
