@@ -1,0 +1,755 @@
+g of main
+2025-04-13 09:56:34.450 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:34.856 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:56:34.856 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:35.254 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:56:35.254 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:35.651 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:56:35.651 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:36.048 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:56:36.048 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:36.450 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:56:36.450 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:36.856 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:56:36.856 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:37.257 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:56:37.257 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:37.659 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:56:37.659 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:38.057 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:56:38.057 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:38.455 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:56:38.455 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:38.853 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:56:38.853 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:39.250 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:56:39.250 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:39.652 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:56:39.652 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:40.048 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:56:40.049 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:40.448 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:56:40.448 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:40.859 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:56:40.859 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:41.255 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 315 ms
+2025-04-13 09:56:41.256 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:41.653 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:56:41.653 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:42.052 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:56:42.052 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:42.456 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:56:42.456 29272-29920 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:56:50.821 31022-31022 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Using CPU Delegate
+2025-04-13 09:56:52.378 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 369 ms
+2025-04-13 09:56:52.378 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 29MB / Max Heap 384MB
+2025-04-13 09:56:52.808 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:56:52.808 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 50MB / Max Heap 384MB
+2025-04-13 09:56:53.244 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:56:53.244 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 71MB / Max Heap 384MB
+2025-04-13 09:56:53.669 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:56:53.669 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 92MB / Max Heap 384MB
+2025-04-13 09:56:54.082 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:56:54.082 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:56:54.486 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 313 ms
+2025-04-13 09:56:54.486 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:56:54.896 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:56:54.896 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:56:55.309 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:56:55.309 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:56:55.729 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:56:55.729 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:56:56.134 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:56:56.135 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:56:56.538 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:56:56.538 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:56:56.935 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 316 ms
+2025-04-13 09:56:56.935 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:56:57.342 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:56:57.342 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:56:57.739 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:56:57.739 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:56:58.141 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:56:58.141 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:56:58.540 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:56:58.541 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:56:58.943 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:56:58.943 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:56:59.345 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:56:59.345 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:56:59.745 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:56:59.745 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:00.144 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:00.144 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:00.546 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:57:00.546 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:00.945 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:57:00.945 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:01.351 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:01.351 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:01.748 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 316 ms
+2025-04-13 09:57:01.748 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:02.158 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:57:02.158 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:02.572 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:02.572 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:02.988 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:02.988 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:03.394 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:57:03.394 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:03.810 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:03.810 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:04.213 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:57:04.213 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:04.617 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:57:04.618 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:05.021 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:05.021 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:05.425 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:05.425 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:05.826 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:05.826 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:06.238 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:06.238 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:06.648 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:06.648 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:07.051 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:57:07.052 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:07.455 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:57:07.455 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:07.868 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:07.868 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:08.273 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:08.273 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:08.682 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:08.682 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:09.085 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:09.085 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:09.499 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:09.499 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:09.925 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 329 ms
+2025-04-13 09:57:09.925 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:10.340 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:10.340 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:10.747 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:10.747 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:11.151 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:57:11.152 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:11.554 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:11.554 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:11.962 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:11.962 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:12.369 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:12.369 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:12.785 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:12.785 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:13.189 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:13.189 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:13.597 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:13.597 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:14.005 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:14.005 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:14.419 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 325 ms
+2025-04-13 09:57:14.419 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:14.823 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:14.823 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:15.228 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:15.228 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:15.633 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:57:15.633 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:16.050 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:16.050 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:16.455 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:16.455 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:16.862 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:16.862 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:17.263 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:57:17.263 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:17.666 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:57:17.666 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:18.069 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 316 ms
+2025-04-13 09:57:18.069 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:18.499 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:18.500 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:18.904 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:57:18.904 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:19.319 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:19.319 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:19.732 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 327 ms
+2025-04-13 09:57:19.732 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:20.142 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:20.142 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:20.552 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:20.553 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:20.962 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:20.963 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:21.365 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:57:21.365 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:21.770 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:21.770 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:22.171 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:57:22.171 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:22.579 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:22.580 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:22.988 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:22.988 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:23.393 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:57:23.393 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:23.793 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:57:23.793 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:24.199 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:24.199 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:24.606 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:24.606 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:25.019 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:25.019 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:25.430 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:25.430 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:25.839 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:25.839 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:26.246 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:57:26.246 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:26.662 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:57:26.662 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:27.064 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:27.064 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:27.474 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:27.474 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:27.884 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:27.885 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:28.330 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 353 ms
+2025-04-13 09:57:28.330 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:28.775 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 351 ms
+2025-04-13 09:57:28.776 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:29.215 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 346 ms
+2025-04-13 09:57:29.216 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:29.629 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 327 ms
+2025-04-13 09:57:29.629 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:30.036 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:30.037 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:30.422 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:30.422 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:30.836 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 327 ms
+2025-04-13 09:57:30.836 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:31.253 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:57:31.253 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:31.662 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:57:31.662 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:32.086 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 336 ms
+2025-04-13 09:57:32.086 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:32.509 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 330 ms
+2025-04-13 09:57:32.509 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:32.921 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:32.921 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:33.327 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:33.327 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:33.708 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:57:33.708 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:34.113 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:34.113 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:34.529 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 327 ms
+2025-04-13 09:57:34.529 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:34.936 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:34.936 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:35.349 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:57:35.349 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:35.761 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:35.761 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:36.196 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 327 ms
+2025-04-13 09:57:36.197 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:36.614 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:36.614 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:37.026 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:37.026 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:57:37.436 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:37.436 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:57:37.843 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:37.843 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:38.258 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 331 ms
+2025-04-13 09:57:38.258 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:38.692 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 342 ms
+2025-04-13 09:57:38.692 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:39.109 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 333 ms
+2025-04-13 09:57:39.109 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:39.524 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 331 ms
+2025-04-13 09:57:39.524 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:39.948 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 333 ms
+2025-04-13 09:57:39.948 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:40.364 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 328 ms
+2025-04-13 09:57:40.365 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:40.772 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:40.772 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:41.184 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 325 ms
+2025-04-13 09:57:41.184 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:41.598 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 327 ms
+2025-04-13 09:57:41.598 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:42.011 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 328 ms
+2025-04-13 09:57:42.011 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:42.424 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:42.424 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:42.833 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:42.834 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:43.243 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:57:43.243 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:43.668 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 327 ms
+2025-04-13 09:57:43.668 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:44.071 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:44.071 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:44.492 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:44.492 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:44.900 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:44.900 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:45.328 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:57:45.328 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:45.734 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:45.734 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:46.140 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:46.140 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:46.550 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:57:46.550 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:46.963 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:57:46.963 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:47.373 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 325 ms
+2025-04-13 09:57:47.373 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:47.781 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:47.781 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:48.191 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:48.191 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:48.605 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:57:48.606 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:49.014 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:57:49.015 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:49.419 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:57:49.419 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:49.833 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 330 ms
+2025-04-13 09:57:49.834 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:50.239 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:50.239 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:50.657 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 333 ms
+2025-04-13 09:57:50.657 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:51.070 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:57:51.070 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:51.478 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:51.478 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:51.882 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:57:51.882 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:52.287 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:52.287 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:52.706 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:52.706 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:53.112 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 325 ms
+2025-04-13 09:57:53.112 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:53.509 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 316 ms
+2025-04-13 09:57:53.509 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:53.908 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:53.908 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:54.314 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 325 ms
+2025-04-13 09:57:54.314 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:54.713 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:54.713 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:55.114 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:57:55.114 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:55.516 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:55.516 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:55.916 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:55.916 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:56.320 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:57:56.321 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:56.727 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:57:56.727 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:57.128 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:57:57.128 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:57.527 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 316 ms
+2025-04-13 09:57:57.528 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:57.935 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:57.935 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:57:58.340 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:57:58.340 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:58.743 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:57:58.743 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:59.146 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:59.146 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:59.552 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 316 ms
+2025-04-13 09:57:59.552 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:57:59.958 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:57:59.958 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:00.363 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:00.363 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:00.779 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 328 ms
+2025-04-13 09:58:00.779 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:01.178 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:58:01.178 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:01.582 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:01.582 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:01.990 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 327 ms
+2025-04-13 09:58:01.990 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:02.394 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:02.394 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:02.801 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:02.801 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:03.205 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:03.205 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:03.612 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:03.613 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:04.019 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:04.020 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:04.418 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:58:04.418 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:04.819 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:04.819 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:05.221 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:05.221 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:05.625 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:05.625 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:06.027 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:06.027 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:06.436 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:58:06.436 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:06.841 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 316 ms
+2025-04-13 09:58:06.841 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:07.250 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:07.250 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:07.656 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:07.656 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:08.059 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:08.060 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:08.469 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:08.469 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:08.884 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:08.884 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:09.294 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:58:09.294 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:09.718 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:09.718 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:10.122 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:10.122 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:10.525 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:10.525 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:10.924 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:10.924 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:11.329 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:11.329 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:11.732 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:11.732 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:12.142 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:58:12.142 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:12.550 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:58:12.550 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:12.955 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 325 ms
+2025-04-13 09:58:12.956 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:13.361 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 325 ms
+2025-04-13 09:58:13.361 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:13.759 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:13.760 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:14.164 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:14.164 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:14.569 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:14.569 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:14.974 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:14.974 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:15.381 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 327 ms
+2025-04-13 09:58:15.381 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:15.786 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:15.786 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:16.188 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:16.188 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:16.604 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 328 ms
+2025-04-13 09:58:16.604 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:17.012 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:17.012 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:17.430 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:17.430 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:17.836 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:17.836 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:18.237 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:18.237 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:18.639 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:18.639 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:19.047 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:58:19.047 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:19.451 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:19.452 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:19.855 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:19.855 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:20.262 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:20.262 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:20.665 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:58:20.665 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:21.074 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:21.074 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:21.482 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 325 ms
+2025-04-13 09:58:21.482 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:21.885 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:21.885 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:22.286 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 316 ms
+2025-04-13 09:58:22.286 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:22.692 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 325 ms
+2025-04-13 09:58:22.692 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:23.096 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:23.096 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:23.504 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:58:23.504 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:23.905 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:23.905 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:24.306 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:24.306 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:24.721 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:58:24.721 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:25.129 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:58:25.130 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:25.531 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:25.531 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:25.934 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:58:25.934 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:26.337 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:58:26.337 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:26.748 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:26.748 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:27.165 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:27.165 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:27.566 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:27.566 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:27.966 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:27.966 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:28.369 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:28.369 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:28.771 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:58:28.771 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:29.178 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:29.178 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:29.584 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:29.584 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:30.007 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 330 ms
+2025-04-13 09:58:30.007 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:30.427 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 331 ms
+2025-04-13 09:58:30.428 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:30.832 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:30.832 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:31.232 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:31.232 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:31.645 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:31.645 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:32.049 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:32.049 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:32.452 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:32.452 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:32.868 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 329 ms
+2025-04-13 09:58:32.868 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:33.279 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 328 ms
+2025-04-13 09:58:33.279 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:33.688 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:33.688 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:34.101 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:58:34.102 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:34.506 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:58:34.506 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:34.914 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:58:34.914 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:35.320 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:35.320 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:35.728 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:58:35.729 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:36.135 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:36.135 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:36.536 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:36.536 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:36.943 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 327 ms
+2025-04-13 09:58:36.943 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:37.365 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:37.365 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:37.767 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:37.767 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:38.182 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:38.182 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:38.592 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:38.593 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:39.014 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 339 ms
+2025-04-13 09:58:39.015 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:39.448 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 329 ms
+2025-04-13 09:58:39.448 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:39.855 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:39.855 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:40.260 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:40.260 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:40.666 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:40.666 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:41.091 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 342 ms
+2025-04-13 09:58:41.091 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:41.531 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 351 ms
+2025-04-13 09:58:41.531 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:41.969 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 344 ms
+2025-04-13 09:58:41.969 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:42.375 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:42.375 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:42.787 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:42.787 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:43.187 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:43.188 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:43.611 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 335 ms
+2025-04-13 09:58:43.611 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:58:44.008 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:58:44.008 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:58:44.408 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:58:44.408 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:58:44.811 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:44.811 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:58:45.229 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:58:45.229 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:45.629 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:45.629 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:46.049 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 328 ms
+2025-04-13 09:58:46.049 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:46.449 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:46.449 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:46.849 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:46.849 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:47.250 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:47.250 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:47.651 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:47.651 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:48.052 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:48.052 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:48.451 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:48.451 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:48.853 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:48.853 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:49.254 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:49.254 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:49.657 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:49.657 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:50.056 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:50.056 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:50.458 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:58:50.458 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:50.871 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 330 ms
+2025-04-13 09:58:50.871 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:51.293 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 325 ms
+2025-04-13 09:58:51.293 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:51.700 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:58:51.700 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:52.101 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:52.101 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:52.501 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:52.502 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:52.913 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:52.913 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:53.309 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:58:53.309 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:53.707 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:53.708 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:54.109 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:54.109 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:54.507 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:58:54.507 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:54.911 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:54.911 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:55.307 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:58:55.307 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:55.708 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:58:55.708 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:56.106 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:58:56.106 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:56.510 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:56.511 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:56.926 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:58:56.926 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:57.335 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 327 ms
+2025-04-13 09:58:57.335 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:57.740 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:58:57.740 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:58.142 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:58:58.142 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:58.549 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 328 ms
+2025-04-13 09:58:58.549 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:58:58.953 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:58:58.953 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:59.358 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 325 ms
+2025-04-13 09:58:59.358 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:58:59.755 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:58:59.755 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:00.161 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:59:00.161 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:00.563 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:59:00.563 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:59:00.961 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:59:00.961 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:01.358 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:59:01.359 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:01.759 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:59:01.759 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:02.167 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:59:02.167 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:59:02.569 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:59:02.569 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:02.974 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:59:02.975 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:03.383 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:59:03.383 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:03.782 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:59:03.782 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:04.190 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 331 ms
+2025-04-13 09:59:04.190 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:59:04.591 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:59:04.592 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:04.990 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:59:04.990 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:05.390 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:59:05.390 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:05.793 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:59:05.793 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:06.204 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:59:06.204 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:06.608 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:59:06.608 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:07.007 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:59:07.007 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:07.405 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 316 ms
+2025-04-13 09:59:07.405 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:07.809 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:59:07.809 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:59:08.214 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:59:08.215 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:08.624 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 325 ms
+2025-04-13 09:59:08.624 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:09.029 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:59:09.029 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:09.425 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:59:09.425 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:09.841 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:59:09.841 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:59:10.244 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:59:10.245 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 46MB / Max Heap 384MB
+2025-04-13 09:59:10.654 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:59:10.654 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 25MB / Max Heap 384MB
+2025-04-13 09:59:11.052 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:59:11.052 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 45MB / Max Heap 384MB
+2025-04-13 09:59:11.463 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:59:11.463 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:59:11.868 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 325 ms
+2025-04-13 09:59:11.868 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:12.274 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 324 ms
+2025-04-13 09:59:12.274 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:12.682 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:59:12.682 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:13.082 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 320 ms
+2025-04-13 09:59:13.082 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:13.492 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 326 ms
+2025-04-13 09:59:13.492 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:59:13.891 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:59:13.891 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:14.293 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 323 ms
+2025-04-13 09:59:14.293 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:14.693 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 318 ms
+2025-04-13 09:59:14.693 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:15.094 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:59:15.094 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
+2025-04-13 09:59:15.492 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 319 ms
+2025-04-13 09:59:15.492 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:15.891 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:59:15.891 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:16.290 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 317 ms
+2025-04-13 09:59:16.290 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:16.690 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 322 ms
+2025-04-13 09:59:16.691 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 18MB / Max Heap 384MB
+2025-04-13 09:59:17.091 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Inference Time: 321 ms
+2025-04-13 09:59:17.091 31022-31292 YOLOv8-TFLite           com.surendramaran.yolov8tflite       D  Memory Usage: Used 9MB / Max Heap 384MB
